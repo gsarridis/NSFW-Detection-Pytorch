@@ -38,6 +38,6 @@ bash train_exps.sh
 to start training the model.
 
 ## Results Visualisation
-As you can see in the following attention maps, the model exhibits high accuracy in terms of the image regions it focuses. (Censored images)
+As you can see in the following attention maps, the model exhibits high accuracy in terms of the image regions it focuses. (Censored images) <br />
 ![](./attention_maps/1.png?raw=true) ![](./attention_maps/2.png?raw=true) ![](./attention_maps/3.png?raw=true) ![](./attention_maps/4.png?raw=true)
 
