@@ -10,8 +10,8 @@ def parse_args():
     # Create the parser
     parser = argparse.ArgumentParser()
     # Add an argument
-    parser.add_argument('--image_path', type=str, default='../data/pornography-2k/images/porn/<image_id>.jpg', help="Directory of the test image.")
-    parser.add_argument('--model_path', type=str, default='../results/models/2022_06_15_14_03_22.onnx', help="Model's directory.")
+    parser.add_argument('--image_path', type=str, default='/home/gsarridis/Desktop/projects/NSFW-detection/data/pornography-2k/images/porn/vPorn000010fr0.jpg', help="Directory of the test image.")
+    parser.add_argument('--model_path', type=str, default='/home/gsarridis/Desktop/projects/NSFW-detection/nsfw-github/results/models/2022_06_15_14_03_22.onnx', help="Model's directory.")
     # Parse the argument
     args = parser.parse_args()
     return args
