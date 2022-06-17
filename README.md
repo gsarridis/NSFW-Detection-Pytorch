@@ -6,7 +6,7 @@ In this repository you can find an effective CNN model for detecting NSFW conten
 ## Usage
 First install the python module:
 ```
-pip install --upgrade nsfw_detector
+pip install --upgrade nsfwdetection
 ```
 Then use the model by:
 ```
