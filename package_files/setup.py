@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'NSFWDetector'
+NAME = 'NSFWDetection'
 DESCRIPTION = 'An effective CNN for detecting NSFW content in images'
 URL = 'https://github.com/gsarridis/NSFW-Detection-Pytorch'
 EMAIL = 'gsarridis@gmail.com'

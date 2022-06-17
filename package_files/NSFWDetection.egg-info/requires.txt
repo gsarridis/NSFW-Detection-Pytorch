@@ -1,0 +1,3 @@
+pydload
+numpy
+onnxruntime

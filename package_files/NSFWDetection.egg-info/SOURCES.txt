@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+NSFWDetection.egg-info/PKG-INFO
+NSFWDetection.egg-info/SOURCES.txt
+NSFWDetection.egg-info/dependency_links.txt
+NSFWDetection.egg-info/requires.txt
+NSFWDetection.egg-info/top_level.txt
+nsfw_detector/__init__.py
+nsfw_detector/image_utils.py
+nsfw_detector/model.py
