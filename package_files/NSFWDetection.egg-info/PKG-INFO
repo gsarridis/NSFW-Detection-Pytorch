@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: NSFWDetection
-Version: 1.0.0
+Version: 1.0.2
 Summary: An effective CNN for detecting NSFW content in images
 Home-page: https://github.com/gsarridis/NSFW-Detection-Pytorch
 Author: Yiannis Sarridis
@@ -26,12 +26,12 @@ In this repository you can find an effective CNN model for detecting NSFW conten
 ## Usage
 First install the python module:
 ```
-pip install --upgrade nsfw_detector
+pip install --upgrade nsfwdetection
 ```
 Then use the model by:
 ```
 #import the model
-from nsfw_detector.model import Model
+from nsfwdetection.model import Model
 
 # initialize the model
 net = Model()

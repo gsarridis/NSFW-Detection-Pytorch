@@ -18,7 +18,7 @@ URL = 'https://github.com/gsarridis/NSFW-Detection-Pytorch'
 EMAIL = 'gsarridis@gmail.com'
 AUTHOR = 'Yiannis Sarridis'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '1.0.0'
+VERSION = '1.0.2'
 
 # What packages are required for this module to be executed?
 REQUIRED = [

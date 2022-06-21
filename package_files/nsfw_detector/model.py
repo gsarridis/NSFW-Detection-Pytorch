@@ -20,7 +20,7 @@ class Model:
         """
         model = Classifier()
         """
-        url = "https://github.com/gsarridis/NSFW-Detection-Pytorch/releases/download/pretrained_models/2022_06_15_14_03_22.onnx"
+        url = "https://github.com/gsarridis/NSFW-Detection-Pytorch/releases/download/pretrained_models_v2/2022_06_20_11_01_42.onnx"
         home = os.path.expanduser("~")
         model_folder = os.path.join(home, ".NSFWModel/")
         if not os.path.exists(model_folder):
