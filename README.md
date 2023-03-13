@@ -11,7 +11,7 @@ pip install --upgrade nsfwdetection
 Then use the model by:
 ```
 #import the model
-from nsfwdetection.model import Model
+from nsfw_detector.model import Model
 
 # initialize the model
 net = Model()
